@@ -28,9 +28,6 @@ import os,shutil
 #     print('calling file finder')
 #     print(file_finder(folderpath,extension_tuple))
 
-import tkinter
-win=tkinter.tk()
-win.mainloop()
 
 
 
